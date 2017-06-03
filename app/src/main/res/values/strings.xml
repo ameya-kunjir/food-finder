@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Food Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="radius">2000</string>
+    <string name="api_key">AIzaSyCoHHZhY0nEHT_RV2v3Nu5Fj22BGN_ePY8</string>
+    <string name="error_no_network">No network connectivity! Will load Restaurant Data when network is available</string>
+    <string name="loc_permission_denied">Location Permission Denied! Food Finder will require required permission to proceed</string>
+    <string name="google_play_not_available">Google Play Service not available ! app cannot proceed</string>
+    <string name="action_share">Share</string>
+    <string name="empty_view_text">No Data to display</string>
+    <string name="rest_img">Restaurant Thumbnail</string>
+    <string name="rest_name">Restaurant Name</string>
+    <string name="rating_bar">Rating</string>
+    <string name="userProfile">User Profile</string>
+    <string name="user_name">User Name</string>
+    <string name="fab">Share Action Button</string>
+    <string name="google_reviews">Google Reviews</string>
+    <string name="hours">Hours</string>
+    <string name="phone">Phone: </string>
+    <string name="address">Address: </string>
+    <string name="status_open">Open</string>
+    <string name="status_close">Close</string>
+    <string name="widget_rating_txt">%1$s Rating : %2$s</string>
+    <string name="collapsing_toolbar_title">Food Finder</string>
+</resources>
